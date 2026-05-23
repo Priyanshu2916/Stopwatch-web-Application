@@ -18,8 +18,8 @@ A simple and responsive Stopwatch Web Application developed as part of the Skill
 This project was created to practice front-end development concepts and build an interactive stopwatch application.
 
 ## Project Link
-GitHub Repository:  
-https://github.com/Priyanshu2916/Stopwatch-web-Application
+[View Project Repository]  
+(https://github.com/Priyanshu2916/Stopwatch-web-Application)
 
 ## Author
 Priyanshu kumari
